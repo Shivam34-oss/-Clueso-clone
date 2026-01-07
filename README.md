@@ -1,6 +1,6 @@
-# Clueso Clone – Full Stack Assignment
+# DashBoard -AI Insight – Full Stack 
 
-This is a Clueso-inspired full stack web application built as part of a technical assignment.  
+This is a DashBoard -AI Insights full stack web application built as part of a technical assignment.  
 The focus of this project is **product thinking, clean architecture, and realistic UX**, rather than real AI integrations.
 
 ---
